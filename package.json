@@ -3,7 +3,8 @@
   "packageManager": "pnpm@8.7.5",
   "version": "0.0.2",
   "description": "Simple type definitions for the Korean Open Dict(우리말샘) Open API.",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "type": "module",
   "repository": "https://github.com/KimuSoft/korean-open-dict-api-types",
   "scripts": {
