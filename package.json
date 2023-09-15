@@ -1,8 +1,8 @@
 {
   "name": "korean-open-dict-api-types",
   "packageManager": "pnpm@8.7.5",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Simple type definitions for the Korean Open Dict(우리말샘) Open API.",
   "main": "index.js",
   "scripts": {
     "test": "ts-node test",
