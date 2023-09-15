@@ -4,11 +4,15 @@
   "version": "0.0.1",
   "description": "Simple type definitions for the Korean Open Dict(우리말샘) Open API.",
   "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/KimuSoft/korean-open-dict-api-types",
   "scripts": {
     "test": "ts-node test",
     "build": "tsc",
     "dev": "ts-node src"
   },
+  "author": "KimuSoft",
+  "license": "ISC",
   "keywords": [
     "korean",
     "우리말샘",
@@ -17,8 +21,6 @@
     "dictionary",
     "dict"
   ],
-  "author": "KimuSoft",
-  "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.6.0",
     "prettier": "^3.0.3",
