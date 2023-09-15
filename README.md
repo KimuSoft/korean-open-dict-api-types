@@ -4,8 +4,6 @@ Simple type definitions for the [**Korean Open Dict Open API**](https://opendict
 
 ## Installation
 
----
-
 Install with [npm](https://www.npmjs.com/) / [yarn](https://yarnpkg.com/) / [pnpm](https://pnpm.js.org/):
 
 ```sh
@@ -15,8 +13,6 @@ pnpm add korean-open-dict-api-types
 ```
 
 ## Docs
-
----
 
 ### Search API
 
